@@ -1,0 +1,8 @@
+.logo{    
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url(https://media.licdn.com/dms/image/v2/D5603AQFsvH2ukorOiQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724413537830?e=1773878400&v=beta&t=yrRDNE5XGQKJCdFI26adVgZd5PlouIb6rHg2cdJ1jcI);
+    background-size: cover;
+}
